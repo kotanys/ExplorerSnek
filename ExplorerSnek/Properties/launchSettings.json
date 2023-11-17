@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExplorerSnek": {
+      "commandName": "Project",
+      "commandLineArgs": "10 5 1000"
+    }
+  }
+}
